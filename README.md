@@ -62,6 +62,6 @@ We will assess how diverse the inputs that your fuzzer generates are. To measure
 
 
 # Points Acquired
-Branch coverage:  	3.9222 / 5		
-Bugs:			          2.85 / 3		
-Input diversity:		2 / 2
+- Branch coverage:  	3.9222 / 5		
+- Bugs:			          2.85 / 3		
+- Input diversity:		2 / 2
